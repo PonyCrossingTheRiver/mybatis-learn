@@ -5,27 +5,13 @@ mytatis 持久层框架 学习研究
 
 #### 软件架构
 软件架构说明
+persistence 模块： 自己实现的框架
+persistence-test 模块： 对自己实现矿建的校验
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
+mybatis-quickstarter： 快速入门
+mybatis_multitable： 多表联合  注解开发  插件使用  二级缓存以及替代方案
+ 
+每个模块都有测试案例 可以从测试案例入手看
 
 #### 特技
 
